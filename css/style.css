@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+body{
+font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #717A81;
+	
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Poppins', sans-serif;
+}
+
+
+header{
+	
+	background-color: #000000;
+	padding: 20px 0;
+	text-align: center;
+}
+
+#hero{
+	
+	background-image: url("../img/slide-galaxy.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+
+	color: #fff;
+	
+	
+}
+
+#hero .title{
+	
+	font-size: 70px;
+	text-align: center;
+	margin: 15% 0;
+	
+}
+
+#hero h2{
+	
+	font-size: 17px;
+	text-align: center;
+
+}
+
+#hero .row{
+	text-align: right;
+}
+
+ #hero .btn-hero{
+	 
+	background-color: rgba(255,255,255,0.60);
+	text-transform: uppercase;
+font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 1px;
+
+	color: #fff;
+}
+	
+
+
+
+
+.subtitle{
+	
+	color: #000;
+	text-transform: uppercase;
+	font-size: 70px;
+	text-align: center;
+	margin-top: 25%;
+}
+
+.description{
+	
+	color: #000;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 3%;
+}
+
+.btn-secciones{
+	 color: fff;
+	background-color: #ddd;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	border-color: #fff;
+	border-width: medium;
+	text-align: center;
+	align-self: center;
+	margin-left: 40%;
+	margin-top: 3%;
+	
+
+}
+
+footer .icon{
+	
+	font-size: 40px;
+	text-align: center;
+	 margin-left: 30%;
+}
+	
+#footer p{
+	
+	text-align: center;
+	margin-left: 40%;
+}
